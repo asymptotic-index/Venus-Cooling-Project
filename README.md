@@ -27,14 +27,14 @@ This master repository serves as the synthesis layer: documenting shared methodo
 | ID | Repository | Reality Level | Status | Core Question | Primary Failure Mode | Repo Link |
 |----|------------|---------------|--------|---------------|----------------------|----------|
 | 00 | **Venus Cooling Project** | Grounded | Active | Can Venus be cooled at all, in principle? | Scale dominates all solutions | (this repo) |
-| 01 | **Space Straw** | Theoretical | Complete | Can atmosphere be passively vented to space? | Hydrostatic equilibrium & choked flow | https://github.com/asymptotic-index/vpc-space-straw |
-| 02 | **Laser Cooling** | Theoretical | Complete | Can lasers increase net radiative heat loss? | Reabsorption & energy balance | LINK_TBD |
-| 03 | **Europa Collision** | Speculative | Complete | Can cold mass absorb Venus’s heat? | Pressure & runaway greenhouse | LINK_TBD |
-| 04 | **Teleportation** | Fantasy | Complete | Is Venus cooling energy- or law-limited? | Assumption violates physics | LINK_TBD |
-| 05 | **Cosmic Blast** | Theoretical | Complete | Can extreme energy impulses remove heat? | Thermalization & rebound effects | LINK_TBD |
-| 06 | **Space Radiator** | Speculative | Complete | Can heat be actively exported to space? | Radiator scale & continuity | LINK_TBD |
-| 07 | **Hungry Powder** | Fantasy | Complete | Can atmosphere be chemically removed? | Required mass ~10²⁰ kg | LINK_TBD |
-| 08 | **Current Best Solutions** | Grounded | Active | What approaches survive literature review? | Timescales & integration | LINK_TBD |
+| 01 | **Space Straw** | Theoretical | Complete | Can atmosphere be passively vented to space? | Hydrostatic equilibrium & choked flow | https://github.com/asymptotic-index/vcp-space-straw |
+| 02 | **Laser Cooling** | Theoretical | Complete | Can lasers increase net radiative heat loss? | Reabsorption & energy balance | https://github.com/asymptotic-index/vcp-laser-cooling |
+| 03 | **Europa Collision** | Speculative | Complete | Can cold mass absorb Venus’s heat? | Pressure & runaway greenhouse | https://github.com/asymptotic-index/vcp-europa-collision |
+| 04 | **Teleportation** | Fantasy | Complete | Is Venus cooling energy- or law-limited? | Assumption violates physics | https://github.com/asymptotic-index/vcp-teleportation |
+| 05 | **Cosmic Blast** | Theoretical | Complete | Can extreme energy impulses remove heat? | Thermalization & rebound effects | https://github.com/asymptotic-index/vcp-cosmic-blast |
+| 06 | **Space Radiator** | Speculative | Complete | Can heat be actively exported to space? | Radiator scale & continuity | https://github.com/asymptotic-index/vcp-space-radiator |
+| 07 | **Hungry Powder** | Fantasy | Complete | Can atmosphere be chemically removed? | Required mass ~10²⁰ kg | https://github.com/asymptotic-index/vcp-hungry-powder |
+| 08 | **Current Best Solutions** | Grounded | Active | What approaches survive literature review? | Timescales & integration | https://github.com/asymptotic-index/vcp-current-best-solutions |
 
 ---
 
