@@ -35,7 +35,7 @@ This master repository serves as the synthesis layer: documenting shared methodo
 | 06 | **Space Radiator** | Speculative | Complete | Can heat be actively exported to space? | Radiator scale & continuity | https://github.com/asymptotic-index/vcp-space-radiator |
 | 07 | **Hungry Powder** | Fantasy | Complete | Can atmosphere be chemically removed? | Required mass ~10²⁰ kg | https://github.com/asymptotic-index/vcp-hungry-powder |
 | 08 | **Current Best Solutions** | Grounded | Active | What approaches survive literature review? | Timescales & integration | https://github.com/asymptotic-index/vcp-current-best-solutions |
-| 09 | **Fantasy Terraform Stack** | Fantasy | Combines multiple fantasy-grade interventions into a single coherent Venus stabilization pathway | https://github.com/asymptotic-index/vcp-fantasy-terraform-stack |
+| 09 | **Fantasy Terraform Stack** | Fantasy | Complete | Combines multiple interventions into a single stabilization pathway | Energy balance and thermal inertia still dominate | https://github.com/asymptotic-index/vcp-fantasy-terraform-stack |
 
 
 ---
