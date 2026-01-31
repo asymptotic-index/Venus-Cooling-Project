@@ -33,7 +33,7 @@ Can impulsive energy inputs remove heat faster than they add it?
 ---
 
 ## Repository Links
-- Full analysis repository: LINK_TBD
+- Full analysis repository: https://github.com/asymptotic-index/vcp-cosmic-blast
 - License: CC BY-SA 4.0
 
 ---

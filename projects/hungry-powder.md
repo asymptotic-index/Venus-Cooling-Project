@@ -33,7 +33,7 @@ Can composition change alone solve Venus’s climate problem?
 ---
 
 ## Repository Links
-- Full analysis repository: LINK_TBD
+- Full analysis repository: https://github.com/asymptotic-index/vcp-hungry-powder
 - License: CC BY-SA 4.0
 
 ---

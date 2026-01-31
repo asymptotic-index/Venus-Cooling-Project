@@ -52,7 +52,21 @@ Version numbers apply to the **project as a whole**, not to individual repos.
 
 ---
 
-## [v1.1.0] — TBD  
+## [v1.1.0] — 2026-01-27  
+### Fantasy Stack Integration
+
+**Added**
+- Fantasy Terraform Stack repository
+- System-level “best-case fantasy bundle” exploring coupled constraints after atmospheric pressure reduction
+- Master repo index and project listings updated accordingly
+
+**Notes**
+- This repository intentionally violates constraints established elsewhere in the project
+- Included to test system closure rather than feasibility
+
+---
+
+## [v1.2.0] — TBD  
 ### Expansion & Synthesis
 
 **Planned**
@@ -63,7 +77,7 @@ Version numbers apply to the **project as a whole**, not to individual repos.
 
 ---
 
-## [v1.1.1] — TBD  
+## [v1.2.1] — TBD  
 ### Documentation Polish
 
 **Planned**

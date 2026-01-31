@@ -35,6 +35,8 @@ This master repository serves as the synthesis layer: documenting shared methodo
 | 06 | **Space Radiator** | Speculative | Complete | Can heat be actively exported to space? | Radiator scale & continuity | https://github.com/asymptotic-index/vcp-space-radiator |
 | 07 | **Hungry Powder** | Fantasy | Complete | Can atmosphere be chemically removed? | Required mass ~10²⁰ kg | https://github.com/asymptotic-index/vcp-hungry-powder |
 | 08 | **Current Best Solutions** | Grounded | Active | What approaches survive literature review? | Timescales & integration | https://github.com/asymptotic-index/vcp-current-best-solutions |
+| 09 | **Fantasy Terraform Stack** | Fantasy | Combines multiple fantasy-grade interventions into a single coherent Venus stabilization pathway | https://github.com/asymptotic-index/vcp-fantasy-terraform-stack |
+
 
 ---
 
@@ -50,6 +52,7 @@ This master repository serves as the synthesis layer: documenting shared methodo
 | Space Radiator | “Can We Radiate a Planet’s Heat Away?” | TBD |
 | Hungry Powder | “The Fictional Material That Still Can’t Save Venus” | TBD |
 | Current Best Solutions | “So… Is Cooling Venus Actually Hopeless?” | TBD |
+| Fantasy Terraform Stack | “Even With Magic, Venus Is Still a Systems Problem” | TBD |
 
 ---
 
@@ -93,6 +96,9 @@ Fictional materials that bind CO₂/N₂ to reduce pressure. Quantitative treatm
 ### Current Best Solutions
 Synthesis of credible directions: solar flux reduction, passive radiative cooling, atmospheric carbon management, albedo modification, and heat export systems—emphasizing that Venus cooling is a systems problem dominated by scale and timescales.
 
+### Fantasy Terraform Stack
+Explores a deliberately best-case, fantasy-grade terraforming pathway that stacks multiple speculative interventions—chemical atmospheric removal, solar shading, limited heat export, and water delivery—into a single dependency-ordered system. By granting one impossible assumption (successful pressure reduction), the project tests whether remaining constraints can coherently close. Demonstrates that even with magical tools, Venus remains dominated by coupled energy balance, thermal inertia, and surface chemistry challenges.
+
 ---
 
 ## Repository Structure (Master)
@@ -115,11 +121,12 @@ Venus-Cooling-Project/
     ├── cosmic-blast.md
     ├── space-radiator.md
     ├── hungry-powder.md
-    └── current-best-solutions.md
+    ├── current-best-solutions.md
+    └── fantasy-terraform-stack.md
 ```
 ---
 
-## Repository Structure (Sub)
+## Repository Structure (Project)
 ```
 Project_Name/
 ├── README.md
@@ -139,6 +146,27 @@ Project_Name/
     ├── 11_GLOSSARY_AND_APPENDIX.md
     └── 12_CHANGELOG.md
 ```
+---
+
+## Repository Structure (Fantasy Stack)
+```
+Project_Name/
+├── README.md
+├── LICENSE
+├── NOTICE.md
+├── CHANGELOG.md
+├── docs/
+    ├── 01_STACK_OVERVIEW.md
+    ├── 02_ASSUMPTIONS.md
+    ├── 03_SEQUENCE_AND_DEPENDENCIES.md
+    ├── 04_MASS_ENERGY_SKETCH.md
+    ├── 05_SURFACE_WATER_AND_CHEMISTRY.md
+    ├── 06_FAILURE_MODES.md
+    ├── 07_VISUAL_AND_NARRATIVE_NOTES.md
+    └── 08_REFERENCES.md
+
+```
+---
 
 Each concept in the Venus Cooling Project is documented using a shared file structure.
 This structure is designed to separate:

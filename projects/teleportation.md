@@ -33,7 +33,7 @@ Is Venus cooling limited by energy alone, or by deeper physical laws?
 ---
 
 ## Repository Links
-- Full analysis repository: LINK_TBD
+- Full analysis repository: https://github.com/asymptotic-index/vcp-teleportation
 - License: CC BY-SA 4.0
 
 ---

@@ -33,7 +33,7 @@ Can laser-driven emission increase net outgoing radiation from an optically thic
 ---
 
 ## Repository Links
-- Full analysis repository: LINK_TBD
+- Full analysis repository: https://github.com/asymptotic-index/vcp-laser-cooling
 - License: CC BY-SA 4.0
 
 ---

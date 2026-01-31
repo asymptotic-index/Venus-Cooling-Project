@@ -35,7 +35,7 @@ Can Venus’s atmosphere be passively or actively vented to space at a rate suff
 ---
 
 ## Repository Links
-- Full analysis repository: LINK_TBD
+- Full analysis repository: https://github.com/asymptotic-index/vcp-space-straw
 - License: CC BY-SA 4.0
 
 ---

@@ -33,7 +33,7 @@ What approaches survive contact with real physics and research?
 ---
 
 ## Repository Links
-- Full analysis repository: LINK_TBD
+- Full analysis repository: https://github.com/asymptotic-index/vcp-current-best-solutions
 - License: CC BY-SA 4.0
 
 ---

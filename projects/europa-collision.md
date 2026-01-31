@@ -34,7 +34,7 @@ Can cold mass meaningfully cool Venus without creating worse secondary effects?
 ---
 
 ## Repository Links
-- Full analysis repository: LINK_TBD
+- Full analysis repository: https://github.com/asymptotic-index/vcp-europa-collision
 - License: CC BY-SA 4.0
 
 ---
