@@ -52,7 +52,7 @@ Project_Name/
 ├── LICENSE
 ├── NOTICE.md
 ├── CHANGELOG.md
-├── docs/
+└── docs/
     ├── 01_STACK_OVERVIEW.md
     ├── 02_ASSUMPTIONS.md
     ├── 03_SEQUENCE_AND_DEPENDENCIES.md
